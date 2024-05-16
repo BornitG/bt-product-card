@@ -1,4 +1,4 @@
-# BT-Product-Card
+# BTG-Product-Card
 
 This is a deployment test suite in NPM
 
